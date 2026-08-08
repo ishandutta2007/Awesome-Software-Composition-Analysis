@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1F2937">
+        <animate attributeName="stop-color" values="#1F2937;#111827;#1F2937" dur="5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#374151">
+        <animate attributeName="stop-color" values="#374151;#1F2937;#374151" dur="5s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="800" height="200" rx="15" fill="url(#bg-grad)" />
+  <g fill="none" stroke="#4B5563" stroke-width="2" opacity="0.5">
+    <path d="M 0,50 Q 200,100 400,50 T 800,50" />
+    <path d="M 0,150 Q 200,100 400,150 T 800,150" />
+    <circle cx="200" cy="100" r="40" stroke="#60A5FA">
+      <animate attributeName="r" values="35;45;35" dur="3s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="600" cy="100" r="40" stroke="#34D399">
+      <animate attributeName="r" values="35;45;35" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <path d="M 240,100 L 560,100" stroke="#9CA3AF" stroke-dasharray="5,5">
+      <animate attributeName="stroke-dashoffset" from="10" to="0" dur="1s" repeatCount="indefinite" />
+    </path>
+  </g>
+  <text x="400" y="90" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#F3F4F6" text-anchor="middle" filter="url(#glow)">Software Composition Analysis</text>
+  <text x="400" y="130" font-family="Arial, sans-serif" font-size="18" fill="#9CA3AF" text-anchor="middle">Vulnerability Scanning • SBOMs • License Compliance</text>
+</svg>
