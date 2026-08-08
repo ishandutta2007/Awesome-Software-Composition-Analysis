@@ -36,20 +36,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 | Product | Description | Pricing | Free Tier Limit | Company Size |
 |---------|-------------|---------|-----------------|--------------|
-| **[Google OSV-Scanner](https://google.github.io/osv-scanner/)** | Official scanner for the OSV vulnerability database, offering accurate lockfile-driven scanning. | Free | Unlimited | ~$2 Trillion (Google) |
-| **[Deps.dev](https://deps.dev/)** | Google-backed public service providing dependency insights and supply-chain metadata. | Free | Unlimited | ~$2 Trillion (Google) |
-| **[Snyk](https://snyk.io/)** | Developer-first SCA platform with IDE and PR integrations, reachability analysis, auto-fix PRs. | Freemium | 200 tests/month for private repos | ~$7.4B Valuation |
-| **[JFrog Xray](https://jfrog.com/xray/)** | Universal SCA deeply integrated with Artifactory for scanning binaries, packages, and containers. | Paid | N/A | ~$6B Market Cap |
-| **[Checkmarx SCA](https://checkmarx.com/)** | Part of the Checkmarx AppSec platform, delivering SCA alongside SAST with reachability features. | Paid | N/A | ~$1.15B Valuation |
-| **[Mend.io](https://www.mend.io/)** | Enterprise SCA offering vulnerability detection, license compliance, and policy enforcement. | Paid | Free for open-source only | ~$1B+ Valuation |
-| **[Sonatype Lifecycle](https://www.sonatype.com/products/lifecycle)** | Component intelligence and policy engine blocking risky open-source components at build stages. | Paid | N/A | ~$1B+ Valuation |
-| **[Black Duck](https://www.blackduck.com/)** | Compliance-focused SCA platform with deep open-source license knowledge base and SBOM features. | Paid | N/A | ~$565M+ Acquired |
-| **[Endor Labs](https://www.endorlabs.com/)** | Reachability-focused SCA that uses function-level analysis to dramatically reduce noise. | Paid | N/A | ~$25M Funding |
-| **[FOSSA](https://fossa.com/)** | License compliance and SBOM platform specialized in open-source policy enforcement. | Freemium | 5 private projects | ~$23M Funding |
-| **[Socket](https://socket.dev/)** | Supply-chain security platform detecting malicious packages through behavioral analysis. | Freemium | Free for open-source | ~$20M Funding |
-| **[Anchore](https://anchore.com/)** | Container and SBOM-centric platform providing vulnerability scanning and continuous monitoring. | Paid | N/A | ~$20M Funding |
-| **[Phylum](https://www.phylum.io/)** | Software supply-chain risk platform specializing in malicious package detection. | Freemium | Community Edition available | ~$15M Funding |
-| **[Debricked](https://debricked.com/)** | SCA platform focused on dependency risk, license compliance, and remediation guidance. | Freemium | Up to 50 contributors | Acquired by OpenText |
+| **[Google OSV-Scanner](https://google.github.io/osv-scanner/)** | Official scanner for the OSV vulnerability database, offering accurate lockfile-driven scanning. | 100% Free | Unlimited | ~$2 Trillion (Google) |
+| **[Deps.dev](https://deps.dev/)** | Google-backed public service providing dependency insights and supply-chain metadata. | 100% Free | Unlimited | ~$2 Trillion (Google) |
+| **[Snyk](https://snyk.io/)** | Developer-first SCA platform with IDE and PR integrations, reachability analysis, auto-fix PRs. | Freemium (Starts at $25/mo) | 200 tests/month for private repos | ~$7.4B Valuation |
+| **[JFrog Xray](https://jfrog.com/xray/)** | Universal SCA deeply integrated with Artifactory for scanning binaries, packages, and containers. | Paid (Custom) | N/A | ~$6B Market Cap |
+| **[Checkmarx SCA](https://checkmarx.com/)** | Part of the Checkmarx AppSec platform, delivering SCA alongside SAST with reachability features. | Paid (Custom) | N/A | ~$1.15B Valuation |
+| **[Mend.io](https://www.mend.io/)** | Enterprise SCA offering vulnerability detection, license compliance, and policy enforcement. | Paid (Custom) | Free for open-source only | ~$1B+ Valuation |
+| **[Sonatype Lifecycle](https://www.sonatype.com/products/lifecycle)** | Component intelligence and policy engine blocking risky open-source components at build stages. | Paid (Custom) | N/A | ~$1B+ Valuation |
+| **[Black Duck](https://www.blackduck.com/)** | Compliance-focused SCA platform with deep open-source license knowledge base and SBOM features. | Paid (Custom) | N/A | ~$565M+ Acquired |
+| **[Endor Labs](https://www.endorlabs.com/)** | Reachability-focused SCA that uses function-level analysis to dramatically reduce noise. | Paid (Custom) | N/A | ~$25M Funding |
+| **[FOSSA](https://fossa.com/)** | License compliance and SBOM platform specialized in open-source policy enforcement. | Freemium (Custom) | 5 private projects | ~$23M Funding |
+| **[Socket](https://socket.dev/)** | Supply-chain security platform detecting malicious packages through behavioral analysis. | Freemium (Starts at $25/mo) | Free for open-source | ~$20M Funding |
+| **[Anchore](https://anchore.com/)** | Container and SBOM-centric platform providing vulnerability scanning and continuous monitoring. | Paid (Custom) | N/A | ~$20M Funding |
+| **[Phylum](https://www.phylum.io/)** | Software supply-chain risk platform specializing in malicious package detection. | Freemium (Custom) | Community Edition available | ~$15M Funding |
+| **[Debricked](https://debricked.com/)** | SCA platform focused on dependency risk, license compliance, and remediation guidance. | Freemium (Custom) | Up to 50 contributors | Acquired by OpenText |
 
 ---
 
